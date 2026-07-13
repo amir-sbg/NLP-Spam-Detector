@@ -163,8 +163,4 @@ The Python modules compile successfully with:
 python3 -m py_compile Preprocessor.py Possibilities.py Learn.py Main.py
 ```
 
-The interactive program was smoke-tested through its evaluation stage. The preview image is generated from the repository’s actual corpus, counting functions, interpolation constants, and probability calculations; it is a software-oriented language-model view rather than AI-generated spam artwork.
-
-## License
-
-No license file is currently included. Add a license before distributing or reusing the project outside its original educational context.
+The interactive program was smoke-tested through its evaluation stage. The preview image is generated from the repository’s actual corpus, counting functions, interpolation constants, and probability calculations.
